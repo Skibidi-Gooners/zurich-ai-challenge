@@ -57,19 +57,3 @@ Example parameters:
 - `activation_default = relu` → Default node activation function  
 
 You can tweak these settings to control how the AI evolves.  
-
----
-
-## 🎮 Demo  
-*(Optional: Insert GIF or screenshot of the AI playing here)*  
-
----
-
-## 📜 License  
-MIT License – feel free to use, modify, and share.  
-
----
-
-## 🙌 Acknowledgements  
-- [NEAT-Python](https://neat-python.readthedocs.io/en/latest/)  
-- Chrome Dino Game inspiration  
